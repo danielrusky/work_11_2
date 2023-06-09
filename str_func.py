@@ -1,6 +1,14 @@
 def func(string):
     '''
-    Это функция, у которой все заглавные буквы
+    function to uuper
+    :param string:
+    :return:
     '''
     return string.upper()
 
+def func2(string):
+    '''
+    function title
+    :return:
+    '''
+    return string.title()
